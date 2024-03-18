@@ -1,0 +1,26 @@
+    <resources>
+        <string name="app_name">Task</string>
+        <string-array name="category_options">
+            <item>Politics</item>
+            <item>Education</item>
+            <item>Health</item>
+            <item>Business</item>
+            <item>Sports</item>
+            <item>Entertainment</item>
+            <item>Technology</item>
+            <item>Science</item>
+            <item>Travel</item>
+            <item>Miscellaneous</item>
+        </string-array>
+
+        <string-array name="region_options">
+            <item>National</item>
+            <item>International</item>
+        </string-array>
+
+        <string-array name="status_options">
+            <item>Draft</item>
+            <item>Approved</item>
+            <item>Published</item>
+        </string-array>
+    </resources>
